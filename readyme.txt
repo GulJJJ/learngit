@@ -1,2 +1,3 @@
 today is 2008-08-08
 Git has a mutable index called stage
+now is afternoon
